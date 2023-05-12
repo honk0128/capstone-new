@@ -14,7 +14,6 @@ import MacM1Air from "../../Assets/macM1Air.jpg";
 import MacM1Pro from "../../Assets/macM1Pro.jpg";
 import MacM2Air from "../../Assets/macM2Air.jpg";
 import MacM2Pro from "../../Assets/macM2Pro.jpg";
-import { useImmer } from "use-immer";
 import Aside from "../Aside";
 import options from '../../data/options'
 import {useStore2, useStore3, useStore4} from "../../Routes/Stores/useStore";
